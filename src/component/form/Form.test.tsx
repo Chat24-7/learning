@@ -29,7 +29,7 @@ describe("Form basic test", () => {
     })
 
     test("form should display header/title as per passed props", () => {
-        //throw new Error("err")
+        throw new Error("err")
     })
 
 
