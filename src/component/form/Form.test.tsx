@@ -32,8 +32,5 @@ describe("Form basic test", () => {
         //throw new Error("err")
     })
 
-    test("the form submit button should be disabled at initial load", () => {
-        //throw new Error("err")
-    })
 
 })
