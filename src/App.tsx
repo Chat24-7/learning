@@ -4,8 +4,8 @@ import './App.css';
 import Form from './component/form/form'
 function App() {
 
-  function onSubmit(){
-    //console.log(data)
+  function onSubmit(data: any){
+    console.log(data)
   }
 
   return (
